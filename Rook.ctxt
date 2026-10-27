@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Rook
+comment1.params=
+comment1.target=int\ getValue()
+comment2.params=row\ col\ color
+comment2.target=Rook(int,\ int,\ java.lang.String)
+comment3.params=
+comment3.target=void\ calculateMoves()
+numComments=4

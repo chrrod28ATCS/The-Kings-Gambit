@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=King
+comment1.params=row\ col\ color
+comment1.target=King(int,\ int,\ java.lang.String)
+comment2.params=
+comment2.target=void\ calculateMoves()
+comment3.params=
+comment3.target=void\ castling()
+numComments=4

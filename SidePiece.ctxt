@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=SidePiece
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ SidePiece\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=img\ color
+comment1.target=SidePiece(greenfoot.GreenfootImage,\ java.lang.String)
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Act\ -\ do\ whatever\ the\ SidePiece\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+comment3.params=
+comment3.target=java.lang.String\ getColor()
+comment4.params=
+comment4.target=boolean\ getDisplayed()
+comment5.params=display
+comment5.target=void\ setDisplayed(boolean)
+numComments=6

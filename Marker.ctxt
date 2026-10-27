@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Marker
+comment1.params=row\ col
+comment1.target=Marker(int,\ int)
+comment2.params=
+comment2.target=void\ position()
+comment3.params=
+comment3.target=int\ getRow()
+comment4.params=
+comment4.target=int\ getCol()
+numComments=5
